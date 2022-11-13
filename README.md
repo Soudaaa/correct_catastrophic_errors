@@ -4,4 +4,4 @@ Notebook containing examples of how to correct catastrophic errors in radar that
 ## Dependencies
 
 Py-ART
-vcor_dualprf <https://github.com/meteocat/vcor_dual_prf>
+[vcor_dualprf](https://github.com/meteocat/vcor_dual_prf)
