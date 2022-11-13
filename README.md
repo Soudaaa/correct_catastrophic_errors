@@ -5,4 +5,6 @@ Notebook containing examples of how to correct catastrophic errors in radar that
 
 [Py-ART](https://github.com/ARM-DOE/pyart)
 
-[vcor_dualprf](https://github.com/meteocat/vcor_dual_prf)
+[vcor_dual_prf](https://github.com/meteocat/vcor_dual_prf)
+
+SciPy
