@@ -7,8 +7,6 @@ SciPy
 
 [Py-ART](https://github.com/ARM-DOE/pyart)
 
-SciPy
-
 [vcor_dual_prf](https://github.com/meteocat/vcor_dual_prf)
 
 [PyMeso](https://github.com/jordanbrook/PyMeso)
