@@ -3,8 +3,12 @@ Notebook containing examples of how to correct catastrophic errors in radars tha
 
 ## Dependencies
 
+SciPy
+
 [Py-ART](https://github.com/ARM-DOE/pyart)
+
+SciPy
 
 [vcor_dual_prf](https://github.com/meteocat/vcor_dual_prf)
 
-SciPy
+[PyMeso](https://github.com/jordanbrook/PyMeso)
