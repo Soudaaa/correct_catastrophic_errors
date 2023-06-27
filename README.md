@@ -11,3 +11,5 @@ SciPy
 [vcor_dual_prf](https://github.com/meteocat/vcor_dual_prf)
 
 [PyMeso](https://github.com/jordanbrook/PyMeso)
+
+## SINCE THE RELEASE OF THE MORE STRAIGT-FORWARD [Alford et al. 2022](https://github.com/aaddisonalford/processorCorrect), THIS METHODOLOGY HAS BECOME OUTDATED##
